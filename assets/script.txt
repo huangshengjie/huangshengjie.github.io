@@ -1,5 +1,0 @@
-gitfolio build huangshengjie -f --sort star --order desc --theme dark --background https://www.helloworkwork.com/assets/top_image.png
-
-gitfolio update
-
-gitfolio ui
