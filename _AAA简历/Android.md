@@ -8,7 +8,7 @@
 
 - 黄胜杰/男/1996
 - 籍贯：江西省赣州市
-- 现住址：广州市番禺区怡景花园怡美苑
+- 住址：广州市番禺区怡景花园怡美苑
 - 学校：大连东软信息学院
 - 学历：统招本科/计算机科学与技术/CET4
 - 工作年限：3年
@@ -44,7 +44,7 @@
 
 **技术点：**
   - 项目基于flutter开发
-  - 开发了地图、蓝牙、支付的原生插件
+  - 开发和扩展了地图、蓝牙、支付的原生插件
   - 项目使用Jenkins进行持续集成
   - 使用了widget控件
 
@@ -97,7 +97,7 @@
 
 # 知识技能
 
-- 掌握 Java、Kotlin、Dart
+- 掌握 Java、Kotlin、Dart 语言的使用
 - 掌握 Android 四大组件、Fragment、Jetpack 组件
 - 掌握 OKHTTP、Retrofit、RxJava等常用第三库的使用
 - 掌握 Android 常用的 UI 控件和布局的使用方式，熟悉自定义控件
@@ -108,9 +108,9 @@
 - 掌握 MVP、MVVM 架构，熟练使用常用的设计模式
 - 完整阅读学习过 Android Developer 的知识内容
 - 熟悉 TCP/IP 和 OSI 模型，熟悉 HTTP(s) 和 Socket，熟悉抓包工具的使用
-- 熟悉 Restflu API 的特点和使用方法
+- 熟悉 Restflu API 的规范和使用方法
 - 掌握 Git 和 CI 的使用方法和技巧
-- 掌握 Flutter 布局方法的使用
+- 掌握 Flutter 的使用
 - 掌握 Flutter 插件的编写和使用方法
 
 
