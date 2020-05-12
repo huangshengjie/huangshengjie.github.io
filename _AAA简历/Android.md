@@ -20,14 +20,15 @@
 ### 1. MOGO（2019.6 - 2020.7）
 项目语言 Kotlin、Dart，已上架国内应用商店和 Google Play，项目特点（难点 or 技术点）
 
-  - 项目使用 MVVM 架构，通过 Jetpack 组件进行开发
-  - 项目基于模块化的方式开发，模块间页面跳转通过 ARouter 框架实现
+  - 使用 MVVM 架构，通过 LiveData、ViewModel 等 Jetpack 组件进行开发
+  - 采用模块化的方式开发，模块间页面跳转通过 ARouter 框架实现
   - 通过脚本生成语言包文件，使用美团 Walle 生成渠道包
   - AutoSize 进行屏幕适配
-  - 项目中使用了OkHTTP+Retrofit+RxJava技术
-  - 项目使用Jenkins进行持续集成
+  - 项目中使用了 OkHTTP+Retrofit+RxJava 技术
+  - 使用了网易云信实现和封装了自己的IM即时通信功能
+  - 项目使用 Jenkins 进行持续集成
   - 集成了支付宝，微信支付方式
-  - 使用了Flutter混合架构，通过flutter boost进行实现
+  - 使用了 Flutter 混合架构，通过 flutter boost 进行实现
 
 ### 2. M Track（2019.10 - 2019.12）
 项目语言 Dart，已上架国内应用商店和 Google Play，项目特点（难点 or 技术点）
@@ -68,15 +69,15 @@
 
 # 知识技能
 
-- 掌握 Kotlin、Java、Dart 语言的使用
-- 掌握 Android 四大组件、Fragment、Jetpack 组件
-- 掌握 OKHTTP、Retrofit、RxJava、Glide 等常用第三库的使用和封装优化
+- 掌握 Kotlin、Java、Dart 语言，具备良好的编码风格
+- 掌握 Android 四大组件、Fragment、Jetpack 组件的使用和原理
+- 掌握 OKHTTP、Retrofit、RxJava、Glide 等主流框架的使用和原理
 - 掌握 Android 自定义 UI 控件，理解 Android 系统对事件的分发、传递与消费机制
 - 熟练使用 Git 工具进行版本管理以及使用 Gradle 构建 Android 项目
 - 熟悉 Android 手机屏幕适配方式和原理
 - 熟悉 Android 各个版本之间的差异及适配方式
 - 掌握 MVP、MVVM 架构，熟练使用常用的设计模式
-- 熟悉 TCP/IP 和 OSI 模型，掌握 HTTP 网络协议
+- 熟悉 TCP/IP、UDP、HTTP 等网络协议及特性
 - 掌握 Flutter 的应用开发方法和混合架构开发方式
 - 掌握 Flutter 插件的编写和使用方法
 
