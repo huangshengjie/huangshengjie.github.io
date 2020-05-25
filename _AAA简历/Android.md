@@ -24,20 +24,25 @@
   - 整个项目使用 Kotlin 语言进行开发
   - 采用模块化的方式开发，模块间页面跳转通过 ARouter 框架实现
   - 项目包含海外市场，对中文、英文和日语进行了多语言适配
-  - 项目中使用了 OkHTTP+Retrofit+RxJava 技术
+  - 项目中使用了 OkHTTP+Retrofit+RxJava+Glide 技术
   - 使用了网易云信实现和封装了自己的 IM 即时通信功能
-  - 项目使用 Jenkins 进行持续集成
+  - 项目使用和封装了个推作为应用内推送
   - 集成了支付宝、微信支付和 Visa 信用卡支付
   - 使用了 Flutter 混合架构，通过 flutter boost 进行实现
+  - 项目使用 Jenkins 进行持续集成
 
 ### 2. M Track（2019.10 - 2019.12）
 项目语言 Dart，已上架国内应用商店和 Google Play，项目特点（难点 or 技术点）
 
   - 项目使用 Flutter 框架，使用 Dart 语言进行开发
-  - 开发和扩展了地图、蓝牙、支付的原生插件
-  - 项目使用Jenkins进行持续集成
-  - 使用了widget控件
-  - 在工作中使用dart语言进行程序功能的开发
+  - 使用 Container、Row、Column 等 Widget 开发 UI 界面
+  - 封装和自定义了 custom_app_bar,custom_dialog,scale_tabbar 等 Widget
+  - 使用和封装了 dio 框架实现网络请求
+  - 使用 provider 解决 Flutter 内的状态管理
+  - 使用 permission_handler 处理 APP 权限请求
+  - 开发和扩展了地图、蓝牙连接功能的原生插件
+  - 使用 flutter_easyrefresh 封装实现了自定义的下拉刷新，上拉加载
+  - 使用 Git 作为项目代码版本管理工具
 
 ### 3. 数货（2019.3 - 2019.6）
 项目语言 Kotlin，项目特点（难点 or 技术点）
@@ -51,7 +56,7 @@
   - 优化了阿里OSS在应用内上传文件时在弱网环境下的性能表现问题
   - 对应用内的三方登录进行了扩展(对接微信)
 
-### 4. 聆课（2018.8 - 2018.12）
+### 4. 聆课（2018.8 - 2019.1）
 项目语言 Java，项目特点（难点 or 技术点）
 
   - 封装和扩展视频播放组件
