@@ -39,7 +39,7 @@
   - 使用 provider 解决 Flutter 内的状态管理
   - 使用 permission_handler 处理 APP 权限请求
   - 开发和扩展了地图、蓝牙连接功能的 Flutter 插件
-  - 使用 flutter_easyrefresh 封装实现了自定义的下拉刷新，上拉加载
+  - 使用 flutter_easyrefresh 封装实现了自定义列表的下拉刷新，上拉加载
 
 ### 3. 数货（2019.3 - 2019.6）
 项目语言 Kotlin、Java、C，项目特点（难点 or 技术点）
@@ -71,8 +71,8 @@
 - 熟练处理 Android 中的 OOM、ANR 等常见异常
 - 掌握 MVP、MVVM 架构，熟练使用常用的设计模式
 - 熟悉 TCP/IP、UDP、HTTP 等网络协议及特性
-- 掌握 Flutter 的应用开发方法和混合架构开发方式
-- 掌握 Flutter 插件的使用和原理
+- 熟悉 H5，掌握 Hybrid 开发的机制和原理
+- 掌握 Flutter 的应用开发方法和 Flutter 插件的使用和原理
 
 # 其它技能
 
