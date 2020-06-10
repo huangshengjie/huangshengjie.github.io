@@ -13,17 +13,15 @@
 
 # 工作经历
 
-- 2019.6 - 2020.6：前海爱讯科技（深圳）有限公司广州分公司 Android 开发工程师
-- 2019.3 - 2019.6：广州图匠数据有限公司 Android 开发实习生
-- 2018.8 - 2019.1：大连柠盟科技有限公司 Android 开发实习生
+- 2019.6 - 2020.6：前海爱讯科技（深圳）有限公司广州分公司 Android 开发
+- 2019.3 - 2019.6：广州图匠数据有限公司 Android 开发
+- 2018.8 - 2019.1：大连柠盟科技有限公司 Android 开发
 
 # 项目经历
 
 ### 1. MOGO（2019.6 - 2020.6）
 项目语言 Kotlin、Java、Dart，已上架国内应用商店和 Google Play，项目特点（难点 or 技术点）
 
-  - 使用 MVVM 架构，通过 LiveData、ViewModel、Room 等 Jetpack 组件进行开发
-  - 整个项目全部使用 Kotlin 语言进行开发，除了部分三方库由 Java 实现
   - 采用模块化的方式开发，项目根据业务特点拆分为多个模块，模块间页面跳转通过 ARouter 框架实现
   - 项目中使用了 OkHTTP+Retrofit+RxJava+Glide 等主流开源库
   - 项目面向海外市场，对中文、英文和日语进行了多语言适配
@@ -65,7 +63,6 @@
 - 掌握 Android 四大组件、Fragment、Jetpack 组件的使用和原理
 - 掌握 OKHTTP、Retrofit、RxJava、Glide 等主流框架的使用和原理
 - 掌握 Android 自定义 UI 控件，理解 Android 系统对事件的分发、传递与消费机制
-- 熟练使用 Git 工具进行版本管理以及使用 Gradle 构建 Android 项目
 - 熟悉 Android 手机屏幕适配方式和原理
 - 熟悉 Android 各个版本之间的差异及适配方式
 - 熟悉掌握 Android 数据存储方法，文件、SQLite、SharedPreferences 等
@@ -73,13 +70,13 @@
 - 掌握 MVP、MVVM 架构，熟练使用常用的设计模式
 - 熟悉 TCP/IP、UDP、HTTP 等网络协议及特性
 - 熟悉 H5，掌握 Hybrid 开发的机制和原理
-- 掌握 Flutter 的应用开发方法和 Flutter 插件的使用和原理
+- 掌握 Flutter 的基本使用
+- 熟练使用 Git 工具进行代码版本管理
 
 # 其它技能
 
-- 了解 Python、PHP 等后端语言，能够独立实现项目的后端
-- 了解基本的 UX 设计和营销策略，熟悉常用的设计工具例如 Sketch、Figma
 - 英语四级水平，能够流畅地读写英文文档
+- 了解基本的 UX 设计和营销策略，熟悉常用的设计工具
 
 # 自我评价
 
