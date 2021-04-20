@@ -7,3 +7,4 @@ gem 'jekyll-mentions'
 gem 'jekyll-feed'
 
 gem "nokogiri", ">= 1.10.8"
+gem "kramdown", ">= 2.3.1"
