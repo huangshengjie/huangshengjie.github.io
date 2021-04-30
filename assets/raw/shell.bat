@@ -4,4 +4,4 @@ D:\scrcpy-win64-v1.16\adb devices
 D:\scrcpy-win64-v1.16\adb disconnect 
 D:\scrcpy-win64-v1.16\adb connect %input%
 D:\scrcpy-win64-v1.16\adb devices
-D:\scrcpy-win64-v1.16\scrcpy
+D:\scrcpy-win64-v1.16\scrcpy -s %input%
