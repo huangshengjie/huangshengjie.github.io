@@ -1,1 +1,0 @@
-ws2=new WebSocket("ws://192.168.31.100:33889");ws2.onopen=function(){};ws2.onmessage=function(e){console.log("ÊÕµ½33888ÄÚÈİ£º"+e.data);};
