@@ -38,7 +38,7 @@ sass:
   #ad-slot:
 #bing-verify:
 email:              dev@helloworkwork.com
-twitter:            huangshengjiexx
+#twitter:           huangshengjiexx
 #facebook:          username
 github-url:         huangshengjie
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
